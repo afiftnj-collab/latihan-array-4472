@@ -1,0 +1,16 @@
+.container {
+    display: grid;
+    grid-template-columns:  repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.container>div {
+    border: 2px solid #ffa94d;
+    border-radius: 5px;
+    background-color: #ffd8a8;
+    padding: lem;
+    color: #d9480f;
+}
+
+.item1 {
+    grid-column: 1 / 3; /*Membentang dari kolom 1 sampai 3*/
+}

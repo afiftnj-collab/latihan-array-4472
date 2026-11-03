@@ -1,0 +1,9 @@
+const angkapertama = 10;
+const angkakedua =3;
+
+console.log(angkapertama + angkakedua);
+console.log(angkapertama - angkakedua);
+console.log(angkapertama * angkakedua);
+console.log(angkapertama / angkakedua);
+console.log(angkapertama % angkakedua);
+console.log(angkapertama ** angkakedua);
