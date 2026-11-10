@@ -1,3 +1,0 @@
-const hasil = (10 + 5) * 2;
-
-console.log(hasil);
